@@ -1,0 +1,2 @@
+gmcs third.cs
+./third.exe
